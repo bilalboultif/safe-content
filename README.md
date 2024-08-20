@@ -28,9 +28,9 @@ import json
 app = Flask(__name__)
 
 # Replace these values with your actual API credentials
-API_USER = '1953127141'
-API_SECRET = 'NB8LuEjM78HBQbM8f5QWyL8Pt8BvoddV'
-WORKFLOW = 'wfl_gQtWU6fQCo0yPMHRdL09j'
+API_USER = 
+API_SECRET =          https://dashboard.sightengine.com
+WORKFLOW = 
 
 @app.route('/')
 def index():
